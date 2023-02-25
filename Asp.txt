@@ -3,3 +3,4 @@ vless://46ce5925-9e24-4964-9b78-ca90cc51c8ed@ip.aspvpn2022pro.ga:2083?mode=gun&s
 vless://c8decf31-ed2f-4d70-893e-a2464a4d5c17@ip.aspvpn2022pro.ga:2096?path=%2F&security=tls&encryption=none&host=ir.sarizo.ga&type=ws&sni=ir.sarizo.ga#Server3+ws%2B+tls+%F0%9F%87%AB%F0%9F%87%AE%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9
 trojan://MMswkrLpUF@104.21.74.231:443?mode=gun&security=tls&type=grpc&serviceName=codepen.io&sni=ir.sarizo.ga#Server4+hamraavall+vip%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
 vless://46ce5925-9e24-4964-9b78-ca90cc51c8ed@45.85.119.129:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=www.speedtest.net&sni=ir.sarizo.ga#Server5+irancell+syd+%F0%9F%87%AB%F0%9F%87%AE%F0%9F%99%88
+vless://3d13304f-680c-4fda-af09-e868d50b3f5a@cdnjs.com:80?path=%2Flove-speed&security=none&encryption=none&host=Ff.gozarmoaqt.ga&type=ws#hamraavall+vip+%E2%9C%85%F0%9F%9A%80
