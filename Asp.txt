@@ -7,3 +7,4 @@ vless://af56a03d-b478-4a24-89a1-d51668cced1a@ip.aspvpn2022pro.ga:2053?mode=gun&s
 vless://46ce5925-9e24-4964-9b78-ca90cc51c8ed@ip.aspvpn2022pro.ga:2083?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=www.speedtest.net&sni=all.sarizo.ga#GR-irancell+2+syd+%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
 vless://c8decf31-ed2f-4d70-893e-a2464a4d5c17@hm.aspvpn2022pro.ga:2096?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=codepen.io&sni=all.sarizo.ga#GR-hamarahavall+syd+1%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
 vless://5b601433-e7c0-4ec6-8249-1ed052af11da@hm.aspvpn2022pro.ga:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=codepen.io&sni=all.sarizo.ga#GR-WIFI+syd+%F0%9F%9A%80
+
