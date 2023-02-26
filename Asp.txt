@@ -3,7 +3,7 @@ vless://51a55473-e164-4f2c-99a9-481bb2a0ce90@ip.aspvpn2022pro.ga:2083?path=%2F&s
 vless://c43aceec-da9a-452a-8763-d9cf8b87a475@hm.aspvpn2022pro.ga:80?path=%2F&security=none&encryption=none&host=abcdef.miomio.ga&type=ws#hamraavall%2Bwifi+1+syd+%F0%9F%9A%80%F0%9F%87%AB%F0%9F%87%AE
 vless://4a8c28fd-ca56-4a01-b547-b247cb5e3ddf@hm.aspvpn2022pro.ga:8080?path=%2F&security=none&encryption=none&host=abcdef.miomio.ga&type=ws#hamraavall%2Bwifi+2+syd+%F0%9F%9A%80%F0%9F%87%AB%F0%9F%87%AE
 vless://f0d3b953-af61-454e-fc10-ed4cdf73a72c@hm.aspvpn2022pro.ga:2052?path=%2F&security=none&encryption=none&host=abcdef.miomio.ga&type=ws#wifi+syd+%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
-trojan://HWLLJovapQ@hm.aspvpn2022pro.ga:2053?mode=gun&security=tls&type=grpc&serviceName=codepen.io&sni=all.sarizo.ga#GR-irancell+1+syd+%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
+trojan://HWLLJovapQ@ip.aspvpn2022pro.ga:2053?mode=gun&security=tls&type=grpc&serviceName=codepen.io&sni=all.sarizo.ga#GR-irancell+1+syd+%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
 vless://46ce5925-9e24-4964-9b78-ca90cc51c8ed@ip.aspvpn2022pro.ga:2083?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=www.speedtest.net&sni=all.sarizo.ga#GR-irancell+2+syd+%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
 vless://c8decf31-ed2f-4d70-893e-a2464a4d5c17@hm.aspvpn2022pro.ga:2096?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=codepen.io&sni=all.sarizo.ga#GR-hamarahavall+syd+1%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
 vless://5b601433-e7c0-4ec6-8249-1ed052af11da@hm.aspvpn2022pro.ga:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=codepen.io&sni=all.sarizo.ga#GR-WIFI+syd+%F0%9F%9A%80
