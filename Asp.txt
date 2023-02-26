@@ -1,6 +1,5 @@
-trojan://HWLLJovapQ@ip.aspvpn2022pro.ga:2053?mode=gun&security=tls&type=grpc&serviceName=codepen.io&sni=ir.sarizo.ga#server1+vip+syd+%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
-vless://46ce5925-9e24-4964-9b78-ca90cc51c8ed@ip.aspvpn2022pro.ga:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=www.speedtest.net&sni=ir.sarizo.ga#Server2+vip+syd+%F0%9F%87%AB%F0%9F%87%AE%F0%9F%99%88
-vless://c8decf31-ed2f-4d70-893e-a2464a4d5c17@ip.aspvpn2022pro.ga:2096?path=%2F&security=tls&encryption=none&host=ir.sarizo.ga&type=ws&sni=ir.sarizo.ga#Server3+ws%2B+tls+%F0%9F%87%AB%F0%9F%87%AE%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9
-trojan://MMswkrLpUF@104.21.74.231:443?mode=gun&security=tls&type=grpc&serviceName=codepen.io&sni=ir.sarizo.ga#Server4+hamraavall+vip%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
-vless://46ce5925-9e24-4964-9b78-ca90cc51c8ed@45.85.119.129:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=www.speedtest.net&sni=ir.sarizo.ga#Server5+irancell+syd+%F0%9F%87%AB%F0%9F%87%AE%F0%9F%99%88
-vless://3d13304f-680c-4fda-af09-e868d50b3f5a@cdnjs.com:80?path=%2Flove-speed&security=none&encryption=none&host=Ff.gozarmoaqt.ga&type=ws#hamraavall+vip+%E2%9C%85%F0%9F%9A%80
+vless://fb2805e7-c02d-44c4-e2d0-acab3347553a@ip.aspvpn2022pro.ga:2053?path=%2F&security=tls&encryption=none&host=abcdef.miomio.ga&type=ws&sni=abcdef.miomio.ga#irancell%2Bwifi+1+syd%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
+vless://51a55473-e164-4f2c-99a9-481bb2a0ce90@ip.aspvpn2022pro.ga:2083?path=%2F&security=tls&encryption=none&host=abcdef.miomio.ga&type=ws&sni=abcdef.miomio.ga#irancell%2Bwifi+2+syd+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%87%AB%F0%9F%87%AE
+vless://c43aceec-da9a-452a-8763-d9cf8b87a475@hm.aspvpn2022pro.ga:80?path=%2F&security=none&encryption=none&host=abcdef.miomio.ga&type=ws#hamraavall%2Bwifi+1+syd+%F0%9F%9A%80%F0%9F%87%AB%F0%9F%87%AE
+vless://4a8c28fd-ca56-4a01-b547-b247cb5e3ddf@hm.aspvpn2022pro.ga:8080?path=%2F&security=none&encryption=none&host=abcdef.miomio.ga&type=ws#hamraavall%2Bwifi+2+syd+%F0%9F%9A%80%F0%9F%87%AB%F0%9F%87%AE
+vless://f0d3b953-af61-454e-fc10-ed4cdf73a72c@hm.aspvpn2022pro.ga:2052?path=%2F&security=none&encryption=none&host=abcdef.miomio.ga&type=ws#wifi+syd+%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80
