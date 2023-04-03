@@ -1,0 +1,25 @@
+ابتدا سرور اپدیت می‌کنیم و پنل نصب می‌کنیم‌‌
+
+به ترتیب وارد کن 
+
+apt update && apt upgrade -y
+
+apt install curl socat -y
+
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+ 
+تمام
+ 
+مرحله بعد برای ساب دامین سرتیفیکت میگیرم با سربات 
+
+به ترتیب وارد کن ( جای یور دامین ، ساب دامین خودت جایگذاری کن )
+
+apt-get install certbot -y
+
+certbot certonly --standalone --agree-tos --register-unsafely-without-email -d yourdomain.com
+
+certbot renew --dry-run
+
+
+Key and fullchain
+داخل تنظیمات پنل جایگذاری می‌کنیم که پنل با دامین بیاد بالا 
