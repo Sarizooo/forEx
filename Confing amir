@@ -23,3 +23,11 @@ certbot renew --dry-run
 
 Key and fullchain
 داخل تنظیمات پنل جایگذاری می‌کنیم که پنل با دامین بیاد بالا 
+
+
+اسکریپت بلاک کردن سایت های ایرانی
+
+
+bash <(curl -s https://raw.githubusercontent.com/elemen3/wepn/master/wepn.sh)
+
+
